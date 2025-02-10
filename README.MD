@@ -2,6 +2,7 @@
 
 📦 Um projeto de carrinho de compras interativo desenvolvido com HTML, CSS e JavaScript.
 
+---
 
 🚀 Funcionalidades
 
