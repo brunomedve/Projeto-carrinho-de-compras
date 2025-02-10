@@ -15,8 +15,8 @@
 
 
 🛠️ Tecnologias Utilizadas  
-	•	Frontend: HTML5, CSS3.
-	•	Backend: JavaScript.
+	•	Frontend: HTML5, CSS3.  
+	•	Backend: JavaScript.  
 
 ---
 
