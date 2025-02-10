@@ -15,9 +15,8 @@
 
 
 🛠️ Tecnologias Utilizadas  
-	•	Frontend: HTML5, CSS3, JavaScript (Vanilla)  
-	•	Backend (opcional): Node.js, Express.js  
-	•	Banco de Dados (opcional): MongoDB ou Fireb  
+	•	Frontend: HTML5, CSS3.
+	•	Backend: JavaScript.
 
 ---
 
