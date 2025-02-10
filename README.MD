@@ -6,7 +6,7 @@
 
 🚀 Funcionalidades
 
-✅ Adicionar produtos ao carrinho.
+✅ Adicionar produtos ao carrinho.  
 ✅ Remover itens do carrinho.
 ✅ Atualizar quantidade de produtos.
 ✅ Calcular o total da compra automaticamente.
