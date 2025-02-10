@@ -11,11 +11,15 @@
 ✅ Atualizar quantidade de produtos.  
 ✅ Calcular o total da compra automaticamente.  
 
+---
 
-🛠️ Tecnologias Utilizadas
-	•	Frontend: HTML5, CSS3, JavaScript (Vanilla)
-	•	Backend (opcional): Node.js, Express.js
-	•	Banco de Dados (opcional): MongoDB ou Fireb
+
+🛠️ Tecnologias Utilizadas  
+	•	Frontend: HTML5, CSS3, JavaScript (Vanilla)  
+	•	Backend (opcional): Node.js, Express.js  
+	•	Banco de Dados (opcional): MongoDB ou Fireb  
+
+---
 
     🎥 Demonstração
 
